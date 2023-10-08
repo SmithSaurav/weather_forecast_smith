@@ -57,7 +57,7 @@ Let people know what your project can do specifically. Provide context and add a
 
 
 ## Visuals
-![img.png](img.png)
+![img_3.png](img_3.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 
