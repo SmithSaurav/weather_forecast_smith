@@ -1,0 +1,6 @@
+variables:
+  LEGACY_DS_COMPONENT: "true"
+include:
+  - project: "weather-forcast/team-devops/project-templates/cicd/pipeline-templates"
+    ref: master
+    file: "python-docker-githubflow.yml"

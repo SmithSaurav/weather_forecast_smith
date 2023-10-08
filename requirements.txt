@@ -1,0 +1,11 @@
+fastapi
+requests
+numpy
+pandas
+pydantic
+python-dateutil
+python-dotenv
+urllib3
+uvicorn
+jinja2
+python-multipart
